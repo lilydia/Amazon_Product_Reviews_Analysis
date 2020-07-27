@@ -1,6 +1,6 @@
 # Amazon Product Reviews Analysis | Natural Language Processing
 
-For this example, we are examining a dataset of Amazon product reviews which can be accessed at http://deepyeti.ucsd.edu/jianmo/amazon/. Python analytical packages used include nltk, pandas, matplotlib,etc.
+For this example, we are examining a dataset of Amazon product reviews which can be accessed at http://deepyeti.ucsd.edu/jianmo/amazon/. Python analytical packages used include **nltk, pandas, matplotlib,etc.**
 
 The following workflow is what I used to perform loading, cleaning, transforming, and sentiment analysis on the dataset:
 1. Loading JSON file as pandas dataframe
