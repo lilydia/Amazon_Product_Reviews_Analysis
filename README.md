@@ -10,7 +10,7 @@ The following workflow is what I used to perform loading, cleaning, transforming
 5. Testing sentiment analysis model
 6. Visualizing results
 
-For details, please see "SentimentAnalysis_Py.ipynb" listed above.
+**For details, please see "SentimentAnalysis_Py.ipynb" listed above.
 
 To compare the effect of data processing on final outcomes, we ran the algorithm under 3 circumstances and summary of results is presented as follows:
 
